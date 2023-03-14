@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bparry32
--💻 Current Data Scinteist at DC United⚽
+-💻 Current Data Scientist at DC United⚽
 
 <!---
 bparry32/bparry32 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
