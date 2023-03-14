@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bparry32
+- 👋 Hi, I’m Blake Parry
 -💻 Current Data Scientist at DC United⚽
 
 <!---
